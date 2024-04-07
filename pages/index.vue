@@ -28,7 +28,7 @@ useHead({
     {
       rel: "icon",
       type: "image/png",
-      href: "/favicon.png",
+      href: "/ecommerceIcon.png",
     },
   ],
 });
