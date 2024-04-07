@@ -1,0 +1,21 @@
+{
+  "Elmatger": "المتجر",
+  "callUs": "اتصل بنا",
+  "cart": "العربة",
+  "addToCart": "اضافة للعربة",
+  "removeFromCart": "ازالة من العربة",
+  "productRecommendation": "المنتج الموصى به",
+  "youCanChooseWhatOurRecommendationProduct": "يمكنك اختيار المنتج الذي نوصي به",
+  "save": "وفر",
+  "featuredProducts": "منتجات مميزة",
+  "allOffers": "كل العروض",
+  "signInToElmatger": "تسجيل الدخول",
+  "emailOrUsername": "البريد الالكتروني او اسم المستخدم",
+  "password": "كلمة المرور",
+  "signIn": "تسجيل الدخول",
+  "loginError": "بيانات الاعتماد هذه غير متطابقة مع البيانات المسجلة لدينا.",
+  "errorWhileLogin": "حدث خطأ اثناء تسجيل الدخول. الرجاء المحاولة مرة اخرى.",
+  "dashboard": "لوحة التحكم",
+  "templateOne": "القالب الأول",
+  "templateTwo": "القالب الثاني"
+}

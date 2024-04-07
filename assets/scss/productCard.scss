@@ -1,0 +1,28 @@
+.product-card {
+  box-shadow: 0px 6px 7px 0px #0000000d;
+  width: 270px;
+  height: 432px;
+  border: 1px solid $border-gray;
+  .like {
+    background-color: $light-green;
+    &:hover {
+      path {
+        fill: $main-green;
+      }
+    }
+    &.liked {
+      path {
+        fill: $main-green;
+      }
+    }
+  }
+  .product-info {
+    direction: ltr !important;
+  }
+}
+
+button.add-to-cart {
+  background-color: $main-green;
+  color: white;
+  text-transform: capitalize;
+}

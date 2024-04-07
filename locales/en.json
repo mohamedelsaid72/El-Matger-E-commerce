@@ -1,0 +1,21 @@
+{
+  "Elmatger": "Elmatger",
+  "callUs": "Call Us",
+  "cart": "Your Cart",
+  "addToCart": "Add To Cart",
+  "removeFromCart": "Remove From Cart",
+  "productRecommendation": "Product Recommendation",
+  "youCanChooseWhatOurRecommendationProduct": "You can choose what our recommendation product here",
+  "save": "Save",
+  "featuredProducts": "Featured Products",
+  "allOffers": "All Offers",
+  "signInToElmatger": "Sign In",
+  "emailOrUsername": "Email or Username",
+  "password": "Password",
+  "signIn": "Sign In",
+  "loginError": "These credentials do not match our records.",
+  "errorWhileLogin": "An error occurred while logging in. Please try again.",
+  "dashboard": "Dashboard",
+  "templateOne": "Template One",
+  "templateTwo": "Template Two"
+}

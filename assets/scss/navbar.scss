@@ -1,0 +1,78 @@
+nav {
+  background-color: $main-light-gray;
+  .navbar-container {
+    width: 100%;
+    max-width: 1920px;
+    .navbar-brand {
+      color: $main-green;
+      text-transform: capitalize;
+      font-weight: 400;
+    }
+    .languages-container {
+      border-inline-start: 1px solid $border-gray;
+      border-inline-end: 1px solid $border-gray;
+      ul {
+        li {
+          display: flex;
+          align-items: center;
+          padding: 0 12px;
+          width: 90px;
+          gap: 10px;
+          font-size: 12px;
+          line-height: 22.49px;
+          font-weight: 400;
+          &:first-child {
+            border-inline-end: 2px solid $border-gray;
+          }
+          img {
+            width: 15px;
+            height: 15px;
+          }
+        }
+      }
+    }
+
+    .call-us {
+      font-weight: 300;
+      font-size: 12px;
+      line-height: 14.52;
+      &::first-letter {
+        text-transform: uppercase;
+      }
+    }
+
+    .cart {
+      position: relative;
+      background-color: $main-green;
+      color: white;
+      max-width: 170px;
+      height: 46px;
+      font-size: 14px;
+      line-height: 16.94;
+      font-weight: 300;
+      padding: 0 12px;
+      .icon-container {
+        position: relative;
+        height: inherit;
+        .items-number {
+          position: absolute;
+          top: 4px;
+          background-color: white;
+          border-radius: 50%;
+          color: $main-green;
+          width: 18px;
+          height: 18px;
+          font-size: 10px;
+          line-height: 14.52;
+          border: 2px solid $main-green;
+          &.items-number-ltr {
+            margin-inline-start: 20px;
+          }
+          &.items-number-rtl {
+            margin-inline-start: -10px;
+          }
+        }
+      }
+    }
+  }
+}
